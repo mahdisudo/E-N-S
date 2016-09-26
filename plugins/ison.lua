@@ -8,8 +8,8 @@ return {
   description = "test bot if is online", 
   usage = "!ison : test",
   patterns = {
-    "^[!/#](ison)$",
-    "^([Ii]son)$"
+    "^[!/#](poker)$",
+    "^(پوکر)$"
   }, 
   run = run 
 }
